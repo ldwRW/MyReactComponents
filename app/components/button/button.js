@@ -6,7 +6,7 @@ class Button extends Component {
     return (
       <React.Fragment>        
         <div className="container">
-          <h1>BUTTON STYLE</h1>
+          <h1>BUTTON STYLES</h1>
           <div className="buttons">
             <a className="btn btn-1">
               <svg>
